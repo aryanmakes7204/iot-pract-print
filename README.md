@@ -1,5 +1,5 @@
 # THIS is program of IOT practical SPPU AIML
-![pract_1](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
+![pract_1](buzzer)
 ![pract_2](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
 ![pract_3](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
 ![pract_4](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
