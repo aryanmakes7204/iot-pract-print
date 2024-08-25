@@ -1,9 +1,11 @@
-# THIS is program of IOT practical SPPU AIML
-![pract_1](buzzer)
-![pract_2](blinking)
-![pract_3](traffic_signals)
-![pract_4]()
-![pract_5](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
-![pract_6](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
-![pract_7](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
-![pract_8](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
+# IoT Practical Programs - SPPU AIML
+
+1. **Buzzer Program**: ![pract_1](buzzer)
+2. **Blinking LED Program**: ![pract_2](blinking)
+3. **Traffic Signals Program**: ![pract_3](traffic_signals)
+4. **Practical 4**: ![pract_4]()
+5. **Temperature Monitoring Program**:
+    - Practical 5: ![pract_5](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
+    - Practical 6: ![pract_6](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
+    - Practical 7: ![pract_7](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
+    - Practical 8: ![pract_8](https://github.com/aryanmakes7204/iot-pract-print/tree/main/temp_pract9)
