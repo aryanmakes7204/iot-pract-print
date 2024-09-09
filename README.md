@@ -2,7 +2,7 @@
 
 3. **Buzzer Program**: ![pract_3](buzzer)
 4. **Blinking LED Program**: ![pract_4](blinking)
-5.**Traffic Signals Program**: ![pract_5](traffic_signals)
+5. **Traffic Signals Program**: ![pract_5](traffic_signals)
 6.  **User input for LED**: ![pract_6](user_input_for_control_LED)
 7. **Square Number**: ![pract_7](square_number)
 8. **Control LED by Potentiometer**: ![pract_8](potentiometer)
